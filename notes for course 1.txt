@@ -1,0 +1,13 @@
+First of all, I need a structure for this project.
+
+What we need to do is to optimize a portfolio ratio in different stocks.
+
+1. read into different stocks
+2. have a model, let's say, calculate the index
+3. plot the stocks timeseries
+4. optimize the coef
+
+Several index: cumulative return
+               average daily return
+               Sharpe Ratio
+
